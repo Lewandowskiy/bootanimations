@@ -1,6 +1,3 @@
 # Evernight from Honkai Star Rail dances to Lonely Lonely
-![bootanimation preview](./preview-small.gif)
-<details>
-  <summary>Click to view full</summary>
-    <img src="./preview-full.gif" alt="bootanimation preview" width="100%">
-</details>
+![bootanimation preview](./preview-full.gif)
+Original video [Evernight Dance Green Screen (4K Quality)](https://www.youtube.com/watch?v=Dy6EAwkkHSk)
